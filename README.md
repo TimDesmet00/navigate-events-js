@@ -1,2 +1,12 @@
 # navigate-events-js
-exercice dans le cadre de le formation Becode sur la navigation dans le Dom et les event javascript
+
+Exercice de consolidation dans le cadre de la formation BeCode portant sur la navigation dans le DOM et les événements JavaScript.
+
+## Authors
+
+- [Tim Desmet](https://github.com/TimDesmet00)
+
+
+## Tech Stack
+
+HTML, CSS, Javascript
